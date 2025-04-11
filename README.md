@@ -26,7 +26,7 @@ L'architecture du chatbot est divisée en plusieurs composants :
 1.  Clonez le repository :
 
     ```
-    git clone [URL_DU_REPOSITORY]
+    git clone https://github.com/Zakaria-Boukeffa/RAG.git
     cd rag-chatbot
     ```
 2.  Créez un environnement virtuel (recommandé) :

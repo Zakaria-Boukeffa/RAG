@@ -62,6 +62,7 @@ L'architecture du chatbot est divisée en plusieurs composants :
     Et apres aller en url local
 
 ## Structure du code
+```bash
 rag-chatbot/
 ├── README.md
 ├── requirements.txt
@@ -76,6 +77,7 @@ rag-chatbot/
 │ └── utils.py
 └── tests/
 └── test_queries.py
+```
 
 ## Démonstration fonctionnelle
 
